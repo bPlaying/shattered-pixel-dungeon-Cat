@@ -12,7 +12,7 @@ allprojects {
 
     ext {
         appName = 'Pixel Dungeon Cat'
-        appPackageName = 'com.bPlaying.pixeldungeoncat'
+        appPackageName = 'com.bPlaying.shatteredpixeldungeoncat'
 
         appVersionCode = 630
         appVersionName = '1.2.3'
